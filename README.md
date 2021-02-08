@@ -1,7 +1,7 @@
 # Project Proposal: My Meal
 
 ### Project title
-My Meal: The easiest way to find food near you.
+My Meal: The easiest way to find and order food near you.
 
 ### What is it?
 My Meal will be an Android and iOS app which helps users to find and order meals for takeout or delivery. 
