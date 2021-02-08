@@ -1,10 +1,4 @@
-# Project Proposal
-
-## Collaboration
-You are welcome to write a proposal with up to 5 other students, if desired.  If you do work with others on the proposal, you **must** clearly indicate the names of all the team members in your proposal.
-
-## What to include
-Your proposal must focus on the product's value proposition, including answers to the questions below.  Keep it thorough but concise.  If you are not clear on whether your writing is any good, consult with a friend.
+# Project Proposal: My Meal
 
 ### Project title
 My Meal: The easiest way to find food near you.
